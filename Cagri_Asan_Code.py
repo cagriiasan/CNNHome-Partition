@@ -11,7 +11,7 @@ import os
 import cv2 as cv
 
 # Veri setinin yolu
-path = 'C:/Users/CAGRII/Desktop/HouseDataset'
+path = 'C:/Users/YourName/Desktop/HouseDataset'
 
 # Etiketleri kodlamak için kullanılacak fonksiyon
 def encode_labels(labels):
@@ -126,7 +126,7 @@ print(classification_report(y_test, y_test_predicted))
 model.save('housemodel.h5')
 
 # Örnek bir fotoğraf test etme
-sample_image_path = 'C:/Users/CAGRII/Desktop/test/test1.jpg'  # Test edilecek örnek fotoğrafın yolunu buraya girin
+sample_image_path = 'C:/Users/YourName/Desktop/test/test1.jpg'  # Test edilecek örnek fotoğrafın yolunu buraya girin
 sample_image = cv.imread(sample_image_path)
 sample_image = cv.resize(sample_image, (image_width, image_height))
 sample_image = sample_image / 255
