@@ -1,5 +1,5 @@
 # CNNHome-Partition by Çağrı Asan
-This project aims to develop a CNN-based model for predicting certain parts of a house. By leveraging the power of Convolutional Neural Networks (CNNs), the model will be trained on a dataset of house images annotated with different room labels. The goal is to accurately segment and predict the various sections of a house, such as the living room, kitchen, bedroom, and bathroom.
+This project aims to develop a CNN-based model for predicting certain parts of a house. By leveraging the power of Convolutional Neural Networks (CNNs), the model will be trained on a dataset of house images annotated with different room labels. The goal is to accurately segment and predict the various sections of a house, such as the frontal, kitchen, bedroom, and bathroom.
 
 Please dont delete the folders!
 
