@@ -1,5 +1,5 @@
 # CNNHome-Partition by Çağrı Asan
-Please dont change the folders name!
+Please dont delete the folders!
 
 If your dataset labels (folders) name different please change this code:
 ![image](https://github.com/cagriiasan/CNNHome-Partition/assets/121824506/a22b507b-9ae4-465a-9568-535310e83bf8)
